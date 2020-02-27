@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+**Veteran Capital**
+
 
 Template Name: Shuffle
 Template URL: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/
