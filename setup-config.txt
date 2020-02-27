@@ -1,0 +1,25 @@
+Thanks for downloading this template!
+
+Template Name: Shuffle
+Template URL: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
+
+Git Config:
+1. New Git Repo
+1.a. No Init with Readme
+2. Follow instructions https://github.com/AndrewKemendo/<newfolder>
+3. 
+CD <folder path to current local webpage> 
+git init
+git config --global user.email "6004400+AndrewKemendo@users.noreply.github.com"
+git config --global user.email
+git add --all
+git commit -m --all
+git remote add origin https://github.com/AndrewKemendo/<folder>
+git push -u origin master
+<!-- Repo should now be in git -->
+
+
+
+
